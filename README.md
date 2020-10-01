@@ -16,6 +16,10 @@ restaurants, that have Additional features that make me understand the concepts 
 Android system more deeply and in an applying way as a first step in this major, I
 decided to build an E-Restaurant android application for ordering foods.
 
+THE APP AVAILABLE ON GOOGLE PLAY NOW!! FROM HERE:
+
+https://play.google.com/store/apps/details?id=com.ds.androideatitv2client
+
 In my application I tried to learn more about Android concepts and how to handle
 different common used scenarios, the project consists of three combined applications,
 to explain briefly, we have a "Customer" who wants to buy a food and this lead us to
