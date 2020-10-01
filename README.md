@@ -55,13 +55,19 @@ Apps' best features:
 
 
 Customer Application Screenshots
-<img src="Images/CustmerApp.png" align="center">
-<img src="Images/CustmerApp2.png" align="center">
+
+
+<img src="Images/CustomerApp.png" align="center">
+<img src="Images/CustomerApp2.png" align="center">
 
 Server Application Screenshots
+
+
 <img src="Images/ServerApp.png" align="center">
 <img src="Images/ServerApp2.png" align="center">
 
 Delivery Application Screenshots
+
+
 <img src="Images/DeliveryApp.png" align="center">
 <img src="Images/DeliveryApp2.png" align="center">
